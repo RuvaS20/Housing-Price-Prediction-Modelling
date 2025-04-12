@@ -6,9 +6,6 @@ This repository contains the dataset and models used for predicting house prices
 
 The dataset contains details of residential properties in Ames, Iowa, and the goal is to predict the sale prices of homes based on various features.
 
-### Data Source:
-- [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-
 ### Dataset Files:
 
 The following files are included in this repository:
@@ -30,29 +27,5 @@ The following files are included in this repository:
 You can access the dataset files at this location in the repository:  
 [https://github.com/RuvaS20/Housing-Price-Prediction-Modelling/tree/main/house-prices-advanced-regression-techniques](https://github.com/RuvaS20/Housing-Price-Prediction-Modelling/tree/main/house-prices-advanced-regression-techniques)
 
-## Usage Instructions
-
-To get started with the dataset:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/RuvaS20/Housing-Price-Prediction-Modelling.git
-   ```
-
-2. Navigate to the directory where the data is stored:
-   ```bash
-   cd Housing-Price-Prediction-Modelling/house-prices-advanced-regression-techniques
-   ```
-
-## About the Model
-
-The goal is to predict the `SalePrice` of houses using various machine learning models, including:
-- Linear Regression
-- Random Forests (RFs)
-- Gradient Boosting Machines
-
-Feature engineering and model tuning are part of the workflow to improve prediction accuracy.
-
-## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
